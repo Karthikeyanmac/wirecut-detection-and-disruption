@@ -1,3 +1,4 @@
 # wirecut-detection-and-disruption
 The Wirecut Detection and Disruption Simulator is a simulation tool designed to model and analyze scenarios where wirecuts occur, and the subsequent detection and disruption responses. This project aims to provide a robust platform for simulating various wirecut incidents and their impacts on systems.
-[wire cut detection and disruption](https://github.com/Karthikeyanmac/wirecut-detection-and-disruption/assets/147300044/880010c3-1e4f-4065-b71f-95239760224e)
+wire cut detection and disruption.png
+
